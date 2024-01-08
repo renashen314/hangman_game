@@ -29,11 +29,7 @@ Losing the Hangman Game
 
 ## Play it on your browser
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/hangman-game.git
-   ```
+1. Clone the repository
 
 2. Navigate to the project directory:
 
