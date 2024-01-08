@@ -52,3 +52,5 @@ Losing the Hangman Game
    ```bash
    npm run dev
    ```
+
+5. Have fun!
